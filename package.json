@@ -1,0 +1,22 @@
+{
+  "name": "smsnoticator",
+  "version": "1.0.0",
+  "description": "send free sms messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelibst/hrhancntotication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelibst/hrhancntotication/issues"
+  },
+  "homepage": "https://github.com/kelibst/hrhancntotication#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
